@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RIZIKIGRAPHICS
+- 👋 Hi, I’m @Mimiapa_Design
 - 👀 I’m interested in graphics design and web development
-- 🌱 I’m currently learning java,php
+- 🌱 I’m currently learning java script,css,bootstrap,php
 - 💞️ I’m looking to collaborate on front-end development 
 - 📫 How to reach me sangariziki44@gmail.com
 
